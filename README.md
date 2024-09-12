@@ -1,5 +1,22 @@
-# www
-www.telsimo.com
+# www.telsimo.com
+
+
+Electronic devices that support eSIM technology, allowing them to connect to cellular networks without requiring a physical SIM card. Common examples include smartphones, tablets, smartwatches, and some laptops.
+
+- eSIM-enabled devices
+- eSIM-compatible devices
+- eSIM-capable hardware
+- Embedded SIM devices
+- Digital SIM devices
+- Soft SIM devices
+- Virtual SIM devices
+- Integrated SIM hardware
+- eUICC (embedded Universal Integrated Circuit Card) devices
+- Remote SIM provisioning devices
+
+
+
+
 
 ## Rozwiązania z połączenia #eSIM / #iSIM + #NoCode + #SaaS:
 
