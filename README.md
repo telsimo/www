@@ -1,6 +1,25 @@
 # www
 www.telsimo.com
 
+## Rozwiązania z połączenia #eSIM / #iSIM + #NoCode + #SaaS:
+
+### Platforma No-Code do zarządzania eSIM/iSIM:
+System, który pozwalałby firmom bez doświadczenia programistycznego na łatwe zarządzanie i konfigurowanie eSIM/iSIM dla swoich urządzeń IoT.
+
+### Marketplace eSIM/iSIM as a Service:
+Platforma, na której dostawcy usług telekomunikacyjnych mogliby oferować swoje plany eSIM/iSIM, a klienci mogliby je łatwo porównywać i aktywować bez kodu.
+
+### Wizualny builder IoT z integracją eSIM/iSIM:
+Narzędzie pozwalające na projektowanie rozwiązań IoT z automatyczną konfiguracją łączności eSIM/iSIM, bez potrzeby kodowania.
+
+### Automatyczna optymalizacja planów eSIM/iSIM:
+System, który analizowałby wykorzystanie danych w urządzeniach IoT i automatycznie dostosowywał plany eSIM/iSIM dla optymalnej wydajności i kosztów.
+
+### Platforma do tworzenia własnych MVNO:
+Rozwiązanie No-Code pozwalające firmom na łatwe tworzenie własnych wirtualnych operatorów sieci komórkowych (MVNO) w oparciu o technologię eSIM/iSIM.
+
+Te pomysły łączą w sobie elastyczność eSIM/iSIM, prostotę podejścia No-Code oraz skalowalność modelu SaaS. Mogłyby one potencjalnie zrewolucjonizować sposób, w jaki firmy zarządzają łącznością w swoich projektach IoT.
+
 ## eSIM
 
 ![obraz](https://github.com/user-attachments/assets/655ac830-4f03-4128-b04c-01205137609a)
@@ -9,6 +28,7 @@ www.telsimo.com
 
 
 ![obraz](https://github.com/user-attachments/assets/b7b2f296-0ebe-44c9-ab78-b663970c4d90)
+
 
 [What is an eSIM? 6 illustrated answers ](https://www.thalesgroup.com/en/markets/digital-identity-and-security/mobile/connectivity/esim/what-is-an-esim)
 
