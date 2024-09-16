@@ -1,5 +1,6 @@
 # www.telsimo.com
 
+![1](https://github.com/user-attachments/assets/b05fe2a4-3ab0-4193-9e53-171153bd87d2)
 
 Electronic devices that support eSIM technology, allowing them to connect to cellular networks without requiring a physical SIM card. Common examples include smartphones, tablets, smartwatches, and some laptops.
 
