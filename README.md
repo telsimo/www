@@ -79,3 +79,6 @@ The iSIM will be first made available in high-end, innovative smartphones in the
 
 Recent research foresees that by 2025, there could be 200 million iSIM-compliant consumer and IoT devices in the field.
 
+## Competiton
+
++ [Global eSIM for Travel Internet, eSIM App | Roamless](https://roamless.com/)
